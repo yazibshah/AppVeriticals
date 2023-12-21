@@ -1,0 +1,19 @@
+/* Add custom styles for the circular button */
+.btn-circle {
+    border-radius: 50px; /* Makes the button circular */
+}
+
+/* Style the button text color and background color */
+.btn-danger {
+    background-color: red;
+    color: white;
+    border-color: red;
+}
+
+/* Style the banner content text */
+.carousel-inner .d-flex h1, 
+.carousel-inner .d-flex h2, 
+.carousel-inner .d-flex p {
+    font-family: 'Arial', sans-serif;
+    color: red;
+}
